@@ -1,12 +1,12 @@
 export const portfolioConfig = {
   // Basic Information
-  name: "Md Taqui Imam",
+  name: "Darrian Tomlinson",
   title: "Software Engineer",
-  description: "I am a Passionate Software Developer",
-  location: "Ramgarh cantt, Jharkhand, India",
+  description: "I am a Senior Software Developer",
+  location: "Los Angeles, California, United State",
 
   // Contact Information
-  email: "taquiimam@example.com", // Replace with actual email if available
+  email: "darriantom0501@gmail.com", // Replace with actual email if available
 
   // Social Media Links
   socialLinks: {
@@ -54,25 +54,23 @@ export const portfolioConfig = {
     ],
     authors: [
       {
-        name: "Taqui Imam",
-        url: "https://github.com/taqui-786",
+        name: "Darrian Tomlinsom",
+        url: "https://github.com/darriantom",
       },
     ],
   },
 
   // About Information
   about: {
-    bio: "I am a Full Stack Web Developer from Ramgarh cantt, Jharkhand, India. I'm passionate about crafting web projects and contributing to open-source communities. I specialize in modern JavaScript frameworks and responsive CSS design, focusing on creating pixel-perfect, user-friendly interfaces. With strong attention to detail and efficient delivery, I build seamless web experiences that combine functionality with elegant design.",
+    bio: "I am a Full Stack Web Developer from Los Angeles, California, United State. I'm passionate about crafting web projects and contributing to open-source communities. I specialize in modern JavaScript frameworks and responsive CSS design, focusing on creating pixel-perfect, user-friendly interfaces. With strong attention to detail and efficient delivery, I build seamless web experiences that combine functionality with elegant design.",
     hobbies: [
       "Coding",
-      "Playing Games",
-      "Watching Anime",
       "Tech Blog Writing",
       "Creating Cool Projects",
     ],
     personalInfo: {
-      language: "English UK",
-      nationality: "India",
+      language: "English US",
+      nationality: "United State",
       gender: "Male",
     },
   },
@@ -82,9 +80,7 @@ export const portfolioConfig = {
     roles: [
       "Freelancer",
       "Blogger",
-      "Gamer",
       "Creator",
-      "Student",
       "Contributer",
     ],
     // Technical Skills
@@ -184,11 +180,11 @@ export const portfolioConfig = {
   education: [
     {
       degree: "Bachelor of Computer Application",
-      institution: "Ranchi University Jharkhand",
-      location: "Doranda College Ranchi",
-      period: "July 2023 - 2026",
+      institution: "Santa Clara University",
+      location: "California, United State",
+      period: "July 2018 - 2023",
       description:
-        "I am currently Studying Bachelor of Computer Application form Doranda College Ranchi a Goverment College of Ranchi. The program has provided me with a well-rounded education, covering both theoretical foundations and practical applications of computer science.",
+        "I am currently finding a right job to me."
     },
   ],
 
