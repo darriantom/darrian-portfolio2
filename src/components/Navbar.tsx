@@ -10,7 +10,6 @@ import {
   LightbulbIcon,
   Mail,
   MoreHorizontal,
- 
   User,
 } from 'lucide-react';
 
@@ -59,7 +58,13 @@ const Navbar = () => {
       ),
       href: '/projects',
     },
-   
+    {
+      title: 'Resume',
+      icon: (
+        <Briefcase className='h-full w-full ' />
+      ),
+      href: '/resume',
+    },
     {
       title: 'Contact us',
       icon: (
