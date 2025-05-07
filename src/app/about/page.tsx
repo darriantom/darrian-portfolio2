@@ -5,7 +5,8 @@ import { Badge } from "@/components/ui/badge";
 import { Circle, Heart, User2 } from "lucide-react";
 import { portfolioConfig } from "@/config/portfolio.config";
 
-const page = () => {
+// Server Component
+export default async function Page() {
   const items = portfolioConfig.about.hobbies.map((hobby) => ({ hobby }));
 
   return (
@@ -54,6 +55,4 @@ const page = () => {
       </FramerWrapper>
     </div>
   );
-};
-
-export default page;
+}
