@@ -81,6 +81,8 @@ export const portfolioConfig = {
       "Freelancer",
       "Blogger",
       "Creator",
+      "Manager",
+      "Leader",
       "Contributer",
     ],
     // Technical Skills
